@@ -165,6 +165,12 @@ aliases = {
     "chihuahua": "huahua",
     "dig-chain": "dig",
     "passage": "pasg",
+    "evmos": "evmos",
+    "kujira": "kuji",
+    "stargaze": "stars",
+    "passage": "pasg",
+    "injective": "inj",
+    "akash": "akt",
 }
 
 def get_chain(name):
